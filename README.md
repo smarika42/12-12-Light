@@ -24,3 +24,4 @@ I will integrate the RTC module once that arrives so that we have a backup durin
 
 Built with: Arduino, C++, Claude
 
+Demo Link: https://youtube.com/shorts/R7rZCeqNEHc?si=Ni2dImGebwLfSBxH
